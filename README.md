@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @thegenperson
-- 👀 I’m interested in web designing and writing code.
-- 🌱 I’m currently learning Flutter.
-- 💞️ I’m looking to collaborate on Flutter.
+- 👋 Hi, I’m Abdul Aleem Tahir
+- 👀 I’m interested in new AI trends and technologies.
 - 📫 How to reach me? Just send me a mail on abdulaleemtahir130@gmail.com.
 
 <!---
